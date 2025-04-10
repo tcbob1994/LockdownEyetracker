@@ -14,6 +14,20 @@ Du wirst möglicherweise auf Ungenauigkeiten bei der Erkennung, Performance-Prob
 
 Mir war Langweilig.
 
+## Ausführbare Datei (.exe) – Einfacher Start (Experimentell)
+
+Wenn du dir die Installation von Python und den ganzen Bibliotheken sparen möchtest, habe ich eine ausführbare Windows-Datei (`.exe`) erstellt. Diese kannst du normalerweise direkt starten, ohne etwas installieren zu müssen (außer eventuell benötigten System-Runtimes, falls sie fehlen).
+
+**Download-Link:**
+[`LockdownEyetracker.exe` herunterladen](https://mega.nz/file/DFIWWKia#P4alrnC4LxzhtdL4K5Ltn6YbQAnuzhrpUPh0fQN0zqc)
+
+**🚨 Wichtige Sicherheitswarnung:**
+Das Ausführen von `.exe`-Dateien, die du aus unbekannten Quellen im Internet herunterlädst, ist **grundsätzlich ein Sicherheitsrisiko**. Virenscanner schlagen bei selbst erstellten `.exe`-Dateien manchmal fälschlicherweise Alarm (False Positives).
+
+Lade diese Datei nur herunter und führe sie aus, wenn du **mir vertraust** und dir der potenziellen Risiken bewusst bist. Die Nutzung der `.exe`-Datei erfolgt vollständig **auf deine eigene Gefahr**. Ich übernehme keine Haftung für eventuell entstehende Probleme oder Schäden auf deinem System.
+
+**Hinweis:** Da dies, wie oben erwähnt, ein Testprojekt ist, kann auch die `.exe`-Datei noch Fehler enthalten oder nicht auf jedem System perfekt laufen. Im Zweifelsfall ist es immer sicherer und transparenter, den Python-Code selbst auszuführen (siehe [Installation](#installation)).
+
 ## Features
 
 *   Echtzeit-Augenerkennung (links, rechts, beide) über deine Webcam.
