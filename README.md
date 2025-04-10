@@ -19,7 +19,7 @@ Mir war Langweilig.
 Wenn du dir die Installation von Python und den ganzen Bibliotheken sparen möchtest, habe ich eine ausführbare Windows-Datei (`.exe`) erstellt. Diese kannst du normalerweise direkt starten, ohne etwas installieren zu müssen (außer eventuell benötigten System-Runtimes, falls sie fehlen).
 
 **Download-Link:**
-[`LockdownEyetracker.exe` herunterladen](https://mega.nz/file/DFIWWKia#P4alrnC4LxzhtdL4K5Ltn6YbQAnuzhrpUPh0fQN0zqc)
+[`LockdownEyetracker.exe` herunterladen](https://github.com/tcbob1994/LockdownEyetracker/releases/tag/release)
 
 **🚨 Wichtige Sicherheitswarnung:**
 Das Ausführen von `.exe`-Dateien, die du aus unbekannten Quellen im Internet herunterlädst, ist **grundsätzlich ein Sicherheitsrisiko**. Virenscanner schlagen bei selbst erstellten `.exe`-Dateien manchmal fälschlicherweise Alarm (False Positives).
